@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "description": "test",
+  "version": "0.0.0",
+  "homepage": "https://github.com:gaga-change/test",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "angular-route": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}
